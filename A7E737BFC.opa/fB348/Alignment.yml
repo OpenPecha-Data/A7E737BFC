@@ -1,0 +1,16 @@
+segment_sources:
+  I048B8B08:
+    type: origin_type
+    relation: translation
+    language: en
+  ID7A2C684:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  420b8a4453b743c8902ad91bb0c72881:
+    I048B8B08: c8e4d22c59f84ba487f946142ed25a99
+    ID7A2C684: a659edb7d1544624bd0cfd7701e0e502
+  34d0346b10754144bd682bc349188310:
+    I048B8B08: 279f93c8ac40410686a2d3f8a0684372
+    ID7A2C684: d736703c9e564ae09142044a85924946
